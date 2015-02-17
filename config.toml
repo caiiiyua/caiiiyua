@@ -1,7 +1,9 @@
 baseurl = "http://imogu.us"
-languageCode = "en-us"
 title = "哎，蘑菇"
 theme = "redlounge"
+author = "nehe"
+copyright = ""Copyright (c) 2008 - 2015, nehe; all rights reserved.""
+
 
 [permalinks]
     post = "/:year/:month/:filename/"
