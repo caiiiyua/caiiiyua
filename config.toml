@@ -1,3 +1,8 @@
-baseurl = "http://yourSiteHere"
+baseurl = "http://imogu.us"
 languageCode = "en-us"
-title = "my new hugo site"
+title = "哎，蘑菇"
+theme = "redlounge"
+
+[permalinks]
+    post = "/:year/:month/:filename/"
+    code = "/:filename/"
