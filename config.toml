@@ -2,9 +2,26 @@ baseurl = "http://imogu.us"
 title = "哎，蘑菇"
 theme = "redlounge"
 author = "nehe"
-copyright = ""Copyright (c) 2008 - 2015, nehe; all rights reserved.""
-
+copyright = "Copyright (c) 2008 - 2014, Steve Francia; all rights reserved."
 
 [permalinks]
     post = "/:year/:month/:filename/"
     code = "/:filename/"
+
+[params]
+    sidebartitle = "哎，蘑菇"
+    sidebartagline = "这是什么东西呀?"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/post"
+[[menu.main]]
+    name = "About"
+    url = "/about"
+
+[[menu.footer]]
+    name = "Blog"
+    url = "/post"
+[[menu.footer]]
+    name = "About"
+    url = "/about"
