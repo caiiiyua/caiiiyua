@@ -1,6 +1,6 @@
 +++
 date = "2015-02-18T00:38:59+08:00"
-title = "Setup Hogo on Github How to"
+title = "Setup Hugo on Github How to"
 author = "nehe"
 tag = ["hugo", "howto"]
 categories = ["howto", "Hugo"]
