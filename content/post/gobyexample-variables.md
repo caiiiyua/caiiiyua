@@ -1,7 +1,7 @@
 +++
-categories = ["Development", "Go", "瞎想"]
+categories = ["Development", "Go"]
 date = "2015-02-20T01:17:55+08:00"
-tags = ["golang", "Development", "瞎想"]
+tags = ["golang", "Development"]
 title = "Go by Example - 变量"
 
 +++

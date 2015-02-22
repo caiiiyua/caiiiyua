@@ -1,7 +1,7 @@
 +++
-categories = ["Development", "Go", "瞎想"]
+categories = ["Development", "Go"]
 date = "2015-02-20T00:59:19+08:00"
-tags = ["golang", "Development", "瞎想"]
+tags = ["golang", "Development"]
 title = "Go by Example － 值"
 
 +++
@@ -25,7 +25,7 @@ func main() {
 Strings 可以通过＋来拼接。
 Intergers，floats，booleans等都和我们之前所学的语言类似。
 ```
-$ go run values.go 
+$ go run values.go
 golang
 1+1= 2
 7.0/3.0= 2.3333333333333335
@@ -36,4 +36,4 @@ false
 
 下节例子： [变量] [1]
 
-[1]: 
+[1]:
