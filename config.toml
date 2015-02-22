@@ -12,6 +12,7 @@ copyright = "Copyright (c) 2008 - 2014, nehe; all rights reserved."
     sidebartitle = "哎，蘑菇"
     sidebartagline = "这是什么呀?"
     categoriescss = "/css/my-categories.css"
+    gaid = "UA-60028602-1"
 
 [[menu.main]]
     name = "Blog"
