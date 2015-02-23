@@ -3,6 +3,7 @@ title = "哎，蘑菇"
 theme = "redlounge"
 author = "nehe"
 copyright = "Copyright (c) 2008 - 2014, nehe; all rights reserved."
+disqusShortname = "imogu"
 
 [permalinks]
     post = "/:year/:month/:filename/"
